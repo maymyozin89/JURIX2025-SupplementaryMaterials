@@ -1,4 +1,3 @@
-# Supplementary Materials  
 ## *From Court Decisions to Guiding Principles: Advancing Complex Legal Summarization with LLMs*  
 **JURIX 2025**
 
