@@ -6,7 +6,7 @@ This repository contains the supplementary materials for our paper presented at 
 
 ---
 
-## 📄 Contents
+## Contents
 - `prompts.pdf` – Complete set of prompt templates used across all prompting strategies and evaluation settings, including:
   - Simple Prompts (Baselines)
   - Expert-Structured Prompts
