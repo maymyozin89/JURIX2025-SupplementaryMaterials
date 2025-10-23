@@ -7,7 +7,7 @@ This repository contains the supplementary materials for our paper presented at 
 ---
 
 ## 📄 Contents
-- `prompts.pdf/` – Prompt Templates:
+- `prompts.pdf` – Prompt Templates:
   - Simple Prompts (Baselines)
   - Expert-Structured Prompts
   - ChatCoI (Human-LLM Collaborative CoI)
