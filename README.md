@@ -1,5 +1,5 @@
 ## *From Court Decisions to Guiding Principles: Advancing Complex Legal Summarization with LLMs*  
-**JURIX 2025**
+
 
 This repository contains the supplementary materials for our paper presented at **JURIX 2025**:  
 > **From Court Decisions to Guiding Principles: Advancing Complex Legal Summarization with LLMs**
